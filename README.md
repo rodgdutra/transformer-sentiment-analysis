@@ -5,4 +5,4 @@ Sentiment analysis using the pre-trained BERT model from HuggingFace transformer
 - [Bert training and inference using tweets](https://github.com/rodgdutra/transformer-sentiment-analysis/blob/main/transformer_sentiment.ipynb)
 
 ## Bert attention visualization:
-- [Attention visualization notebook](https://github.com/rodgdutra/transformer-sentiment-analysis/blob/main/transformer_attn_viz.ipynb) 
+- [Attention visualization notebook](https://nbviewer.org/github/rodgdutra/transformer-sentiment-analysis/blob/main/transformer_attn_viz.ipynb) 
